@@ -1,0 +1,6 @@
+# Keep internal and old material out of the public demo repo
+_backup_daily-cleaning-website/
+design-source/
+site-audit/
+SITE-AUDIT.md
+.DS_Store
